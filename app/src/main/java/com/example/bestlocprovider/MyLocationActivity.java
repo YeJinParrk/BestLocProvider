@@ -46,8 +46,6 @@ public class MyLocationActivity extends AppCompatActivity {
                         "Latitude: " + location.getLatitude()
                                 + "\nLongitude: " + location.getLongitude()
                                 + "\nAltitude: " + location.getAltitude());
-
-
             }
         };
 
